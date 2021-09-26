@@ -27,3 +27,4 @@ class Road:
 
 road_to_village = Road(20000, 6)
 road_to_village.intake()
+

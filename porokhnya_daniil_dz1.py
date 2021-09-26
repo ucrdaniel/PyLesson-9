@@ -17,7 +17,7 @@ class TrafficLight:
 
     def running(self):
         i = 0
-        while i < 1:
+        while i < 5:
             for el in TrafficLight.colors:
                 print(el)
                 i += 1

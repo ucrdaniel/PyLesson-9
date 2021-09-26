@@ -33,3 +33,4 @@ class Position(Worker):
 
 manager = Position('Иван', 'Иванов', 'менеджер', 500, 100)
 print(manager.get_full_name(), manager.get_full_profit())
+
